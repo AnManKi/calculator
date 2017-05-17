@@ -15,6 +15,9 @@ namespace JHJFramework.Controls
 		public void main()
 		{
 			//여기가 시작점인가??
+
+			그런가?
+
 		}
 	}
 }
